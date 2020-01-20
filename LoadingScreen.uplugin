@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "SLevelLoader",
+  "Description": "A simple loading screen plug-in.",
+  "Category": "Loading",
+  "CreatedBy": "Epic Games, Inc. & Maxence Beaumont",
+  "CreatedByURL": "https://www.epicgames.com",
+  "DocsURL": "https://github.com/Ilygos/SLevelLoader",
+  "SupportURL": "https://github.com/Ilygos/SLevelLoader/issues",
+  "EngineVersion": "4.22",
+  "EnabledByDefault": true,
+  "CanContainContent": true,
+
+  "Modules": [
+    {
+      "Name": "SLevelLoader",
+      "Type": "Runtime",
+      "LoadingPhase": "PreLoadingScreen"
+    }
+  ]
+}
