@@ -9,7 +9,7 @@ to make it easier to add a loading screen.
 ## About
 
 The LoadingScreen plug-in implements a module that allows you to configure a simple
-Loading Screen system in the engine.  To goal is to make it more customizable over 
+Loading Screen system in the engine.  To goal is to make it more customizable over
 time to avoid needing to write a new loading screen manually.
 
 
@@ -22,7 +22,7 @@ This plug-in was last built against **Unreal Engine 4.22**. It works on all plat
 
 This plug-in requires Visual Studio and either a C++ code project or a the full
 Unreal Engine 4 source code from GitHub. If you are new to programming in UE4,
-please see the official [Programming Guide](https://docs.unrealengine.com/latest/INT/Programming/index.html)! 
+please see the official [Programming Guide](https://docs.unrealengine.com/latest/INT/Programming/index.html)!
 
 
 ## Usage
@@ -39,9 +39,7 @@ The plug-in configured to be enabled by default once it's in your game's plug-in
 
 **Note: This plugin is not supported by Epic Games.**
 
-Please [file an issue](https://github.com/nickdarnell/LoadingScreen/issues),
-submit a [pull request](https://github.com/nickdarnell/LoadingScreen/pulls?q=is%3Aopen+is%3Apr)
-or hit me up on twitter [@NickDarnell](https://twitter.com/NickDarnell)
+Thanks to [@NickDarnell](https://twitter.com/NickDarnell) for the base plugin [LoadingScreen](https://github.com/ue4plugins/LoadingScreen)
 
 
 ## References
