@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+    {
+      "Name": "SLevelLoader",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "LevelLoaderModule",
+      "Type": "ClientOnly",
+      "LoadingPhase":  "PreLoadingScreen"
+    }
+	]
+}
